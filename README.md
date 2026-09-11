@@ -1,6 +1,6 @@
 # Funky
 
-VB6 working copy of `Funky` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: DistroClient. Output: `DistroClient.exe`. `VersionCompanyName`: WA POLICE SERVICE..
+WA Police Service VB6 Distributed Tasks client (`DistroClient.exe`, product DistroTasks v2). Winsock TCP client/server with logging, registry helpers, ADO, and process launch APIs; UI "Distributed Tasks Client" supports `/START` and `/LOG:n` command-line switches. Version comment: Includes Logging & TCPIP Server.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
